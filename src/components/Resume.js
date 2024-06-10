@@ -15,6 +15,7 @@ const Resume = () => {
                 <Section sectionName="projects" />
                 <Section sectionName="education" />
                 <Skills />
+                <div className={styles.footer}></div>
             </ResumeContextProvider>
         </div>
     );

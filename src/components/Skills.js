@@ -11,6 +11,7 @@ const Skills = () => {
             <SectionHeader sectionName="Skills" />
             <Divider />
             <p className={styles.skills}>{resumeContext.skills.join(", ")}</p>
+            <Divider />
         </div>
     );
 };
