@@ -1,0 +1,67 @@
+.resume {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.fullName {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+}
+
+.divider {
+    background-color: black;
+    height: 1px;
+    margin: 0% 2%;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+}
+
+.sectionHeader {
+    margin: 0% 3%;
+    text-align: left;
+}
+
+
+.sectionItemHeaderRow {
+    margin: 0% 4%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.sectionItemHeaderRow h3 {
+    margin: 0px;
+}
+
+.sectionItemHeaderRow span {
+    font-style: italic;
+}
+
+.detailsList {
+    margin: 0% 4%;
+}
+
+.detailsList li {
+    text-align: left;
+}
+
+.skills {
+    margin: 0% 4%;
+    text-align: left    ;
+}

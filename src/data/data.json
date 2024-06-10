@@ -1,0 +1,71 @@
+{
+    "header": {
+        "fullName": "Pavan Kalyan Thota",
+        "phNo": "+1 5125372149",
+        "email": "pthotaj@gmail.com",
+        "linkedIn": "https://www.linkedin.com/in/pavantj/",
+        "github": "https://github.com/Pavan-kalyan-thota"
+    },
+    "workExperience": {
+        "title": "Work Experience",
+        "items": [
+            {
+                "companyName": "Apple",
+                "start": "May, 2024",
+                "role": "Full Stack Developer",
+                "location": "Austin, TX",
+                "details": [
+                    "As a full stack developer on Apple's Payments Reconciliation team, designed and implemented robust, scalable solutions to automate the reconciliation process, integrating multiple financial systems, ensuring data integrity, and enhancing efficiency and accuracy in financial operations, reducing reconciliation time by 40%.",
+                    "Utilized Spring Boot and Express.js to develop and maintain microservices, alongside GraphQL for efficient data querying, handling over 1 million transactions per day, streamlining Apple's payments reconciliation process, and ensuring real-time transaction matching and seamless integration with various financial systems",
+                    "Leveraged React and Redux to build a dynamic, user-friendly dashboard used by over 300 accountants, enabling them to visualize, monitor, and manage reconciliation data efficiently, reducing manual effort by 50% and improving decision-making speed by 30%",
+                    "Integrated machine learning models to predict and identify missing transactions with 95% accuracy, enhancing the reconciliation process by automatically flagging discrepancies and suggesting potential matches, thereby reducing manual review time by 60%",
+                    "Employed MongoDB and Oracle DB to create a hybrid data storage solution, managing over 500GB of unstructured reconciliation data in MongoDB and securing 2TB of structured financial records in Oracle DB, ensuring optimal data management and retrieval capabilities with 99.9% uptime",
+                    "Utilized AWS services to build and deploy scalable, secure infrastructure for the payments reconciliation system, leveraging AWS Lambda for serverless computing handling 10,000 transactions per second, S3 for scalable data storage, and RDS for managed database solutions, ensuring high availability and 99.99% performance reliability."
+                ]
+            },
+            {
+                "companyName": "Bloom Insurance",
+                "start": "May, 2023",
+                "end": "August, 2023",
+                "role": "Software Engineer Intern",
+                "location": "USA",
+                "details": [
+                    "Developed and maintained the insurance agents' application using React for the front end and Java with Spring Boot for the back end, enhancing user interface responsiveness by 30% and reducing server response time by 25%, leading to a more efficient workflow for agents.",
+                    "Collaborated with cross-functional teams to integrate RESTful APIs and implement secure, scalable solutions, resulting in a 40% increase in processing efficiency and a 15% reduction in system downtime, significantly improving the overall performance of application."
+                ]
+            },
+            {
+                "companyName": "Google Summer Of Code",
+                "start": "May, 2023",
+                "end": "August, 2023",
+                "role": "Software Engineer Open Source Contributor",
+                "location": "USA",
+                "details": [
+                    "Developed and implemented a passwordless authentication system using webauthn for the Plone Foundation during Google Summer of Code, enhancing security by allowing users to authenticate via biometrics or hardware based authentication, resulting in a 50% reduction in password-related support queries.",
+                    "Integrated the passwordless authentication feature with existing Plone infrastructure, ensuring seamless user experience and compatibility, while conducting extensive testing and documentation, leading to a 30% increase in user adoption and positive feedback from the community."
+                ]
+            } 
+        ]
+    },
+    "projects": {
+        "title": "Projects",
+        "items": []
+    },
+    "education": {
+        "title": "Education",
+        "items": [
+            {
+                "companyName": "Indian University",
+                "start": "January, 2022",
+                "end": "December, 2023",
+                "role": "Master's Computer Science",
+                "location": "Bloomington, IN",
+                "details": [
+                    "Computer Science Department Academic Year Award for ICPC 2022-23; 3.76/4.0 GPA",
+                    "As a Teaching Assistant for Applied Algorithms, Advanced Database Concepts, and Security Analytics, assisted in delivering technical content, grading complex problem sets involving algorithm optimization, advanced SQL queries."
+                ]
+            }
+        ]
+    },
+    "skills": ["C/C++", "Java", "JavaScript/TypeScript", "Python", "GoLang", "HTML", "CSS", "SQL", "postgreSQL", "PL/SQL", "React.js", "Redux", "Redis", "Spring Boot", "Express.js", "Node.js", "Restful APIs", "GraphQL", "AWS EC2", "S3", "SNS", "Lambda", "DynamoDB", "MongoDb", "Unix/Linux", "Docker", "Kubernetes", "CI/CD", "Git", "Postman", "JUnit", "Mockito", "Jest", "Agile", "Scrum"]
+}
